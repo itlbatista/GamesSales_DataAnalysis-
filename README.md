@@ -1,3 +1,5 @@
+## READ FIRST
+
 Ola, 
 
 Bem vindo ao meu primeiro trabalho de Visualizacao de Dados, este projeto foi feito durante um passo a passo no site: https://paulovasconcellos.com.br/
@@ -9,7 +11,6 @@ Espero que ajuda voce a iniciar seu primeiro projeto assim como me ajudou.
 Obrigado.
 
 ------------------------------------------------------------------------------------------------
-================================================================================================
 ------------------------------------------------------------------------------------------------
 
 Hello,
